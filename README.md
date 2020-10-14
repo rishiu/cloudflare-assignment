@@ -1,10 +1,10 @@
-# 👷 `worker-template` Hello World
+# Links Worker
 
 A worker with some links.
 
 A live version lives here: https://cloudflare-app.rishi-upadhyay.workers.dev/
 
-#### How-To
+## How-To
 
 Install wrangler with npm:
 ```
